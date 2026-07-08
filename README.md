@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with the new operating system i changed to,<br>which is Mint,<br>I'm new to git-hub, used it once and didn't really find a use for it,<br>but I'm now committed to use it more.<br>I am new and would love to learn a lot especially in (AWS, Linux, networking and cybersecurity)<br>I'm currently learning Linux, AWS<br>feel free to chat me up!!<br>i would love to make my own Linux from scratch.
+I'm currently working with the new operating system I changed to,<br>which is Mint,<br>I'm an aspiring network engineer,<br> with plans to get my CCST and CCNA.<br><br>I'm currently learning Linux, AWS<br>feel free to chat me up!!<br>i would love to make my own Linux from scratch.
 
 
 ## 🌐 Socials:
